@@ -113,11 +113,11 @@ removed from the name."
         (get "collectionViewUrl"))))
 
 (defn add-all-details [album]
-  (let [album-link-year-lookup-map (get-album-link-year-lookup-map album)])
-  (->> album
-       (map #(merge % (song-details-from-wikipedia %)))
-       (map #(merge % (album-link-year-lookup-map (select-keys % [:artist :song]))))
-       (map #(merge % (album-details-from-wikipedia %)))
-       (map #(if (:song %) (assoc % :year (earliest-year %))))
-       (map #(assoc %2 :index %1) (range))
-       (map #(assoc % :itunes-link (itunes-link %)))))
+  (let [album-link-year-lookup-map (get-album-link-year-lookup-map album)]
+    (->> album
+         (map #(merge % (song-details-from-wikipedia %)))
+         (map #(merge % (album-link-year-lookup-map (select-keys % [:artist :song]))))
+         (map #(merge % (album-details-from-wikipedia %)))
+         (map #(if (:song %) (assoc % :year (earliest-year %))))
+         (map #(assoc %2 :index %1) (range))
+         (map #(assoc % :itunes-link (itunes-link %))))))
