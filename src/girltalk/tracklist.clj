@@ -10,32 +10,6 @@
                      (.split mm:ss ":"))]
     (* 1000 (+ ss (* 60 mm)))))
 
-#_(def wiki-parse
-  (insta/parser "
-wiki-line = title-track-line | sample-track-line | <''>
-
-title-track-line = <'!! '> track-number <'. '> track-name <'- '> track-time
-track-number = #'\\d+'
-track-name = #'[^-]*'
-track-time = time
-
-sample-track-line = <'* '> start-time <' - '> end-time <' '> artist-name <' - '> sample-name
-artist-name = (link | artist-plain-text)*
-artist-plain-text = #'[^\\[]+(?= - )' | #'[^\\[]+(?=\\[)'
-
-sample-name = (link | sample-plain-text)*
-sample-plain-text = #'[^\\[]*'
-
-link = <'[['> url <' | '> text <']]'>
-url = #'[^ ]*'
-text = #'[^]]*'
-
-start-time = time
-end-time = time
-<time> = #'\\d+:\\d+'
-"
-                :output-format :enlive))
-
 (def wiki-parse
   (insta/parser "
 wiki-line = title-track-line | sample-track-line | <''>
@@ -61,8 +35,6 @@ end-time = time
 <time> = #'\\d+:\\d+'
 "
                 :output-format :enlive))
-
-;; 
 
 (defn parse-markdown [file]
   (with-open [r (io/reader file)]
