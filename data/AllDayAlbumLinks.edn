@@ -1,0 +1,2839 @@
+({}
+ {:album-link "http://en.wikipedia.org/wiki/Paranoid_(album)",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/War%20Pigs" "War Pigs"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Black%20Sabbath" "Black Sabbath"]]}
+
+ {:year 2010
+  :song ["\"Vote 4 Me\""],
+  :artist
+  ["JC featuring "
+   ["http://en.wikipedia.org/wiki/Yung%20Joc" "Yung Joc"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/No_One_Can_Do_It_Better"
+  :song ["\"It's Funky Enough\""],
+  :artist [["http://en.wikipedia.org/wiki/The%20D.O.C." "The D.O.C."]]}
+
+ {:year 2010
+  :song ["\"This Shit Slappin'\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Pack%20%28group%29"
+    "The Pack"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Nothing%27s_Shocking",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/Jane%20Says" "Jane Says"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Jane's%20Addiction"
+    "Jane's Addiction"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/The_Greatest_Story_Ever_Told_(David_Banner_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Get%20Like%20Me" "Get Like Me"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/David%20Banner" "David Banner"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Chris_Brown" "Chris Brown"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Black_Smith"
+  :song ["\"I'm Gonna Love You Just a Little More Babe\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Jimmy%20Smith%20%28musician%29"
+    "Jimmy Smith"]]}
+ {:song ["\"Tipsy '09\""],
+  :artist [["http://en.wikipedia.org/wiki/J-Kwon" "J-Kwon"]]}
+
+ {:year 1985
+  :album-link nil,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/La%20Di%20Da%20Di" "La Di Da Di"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Slick%20Rick" "Slick Rick"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Doug%20E.%20Fresh" "Doug E. Fresh"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Morrison_Hotel"
+  :song ["\"Waiting for the Sun\""],
+  :artist [["http://en.wikipedia.org/wiki/The%20Doors" "The Doors"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Still_da_Baddest"
+  :song ["\"Look Back at Me\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Trina" "Trina"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Killer%20Mike" "Killer Mike"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Appetite_for_Destruction_(song)",
+  :song
+  ["\"Appetite for Destruction\" (portion sampled samples \"Get Me Back on Time, Engine #9\" by "
+   ["http://en.wikipedia.org/wiki/Wilson_Pickett" "Wilson Pickett"]
+   ")"],
+  :artist [["http://en.wikipedia.org/wiki/N.W.A" "N.W.A"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/II_Trill"
+  :song ["\"Pop It 4 Pimp\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Bun%20B" "Bun B"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Webbie" "Webbie"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Juvenile%20%28rapper%29"
+    "Juvenile"]]}
+
+ {:year 2009
+  :song ["\"Twerk\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Juicy%20J" "Juicy J"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Project%20Pat" "Project Pat"]]}
+
+ {:year 1968
+  :song ["\"Get Out of My Life, Woman\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Allen%20Toussaint"
+    "Allen Toussaint"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Liquid_Swords",
+  :song
+  ["\"Liquid Swords\" (portion sampled samples \"Groovin'\" by "
+   ["http://en.wikipedia.org/wiki/Willie_Mitchell_(musician)"
+    "Willie Mitchell"]
+   ")"],
+  :artist [["http://en.wikipedia.org/wiki/Gza" "GZA"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Around_the_Fur"
+  :song ["\"Around the Fur\""],
+  :artist [["http://en.wikipedia.org/wiki/Deftones" "Deftones"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/13_Songs_(Fugazi_album)"
+  :song ["\"Waiting Room\""],
+  :artist [["http://en.wikipedia.org/wiki/Fugazi" "Fugazi"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Dr._Octagonecologyst"
+  :song
+  ["\"Blue Flowers\" (portion sampled samples \"Bumpin' Bus Stop\" by Thunder and Lightning)"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Dr.%20Octagon" "Dr. Octagon"]]}
+
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Rated_R_(Rihanna_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Rude%20Boy%20%28song%29" "Rude Boy"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Rihanna" "Rihanna"]]}
+
+ {}
+
+ {:album-link "http://en.wikipedia.org/wiki/Rated_R_(Rihanna_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Rude%20Boy%20%28song%29" "Rude Boy"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Rihanna" "Rihanna"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Back_in_Black_(Whodini_album)"
+  :song ["\"I'm a Ho\""],
+  :artist [["http://en.wikipedia.org/wiki/Whodini" "Whodini"]]}
+
+
+ {:year 2010
+  :song ["\"Break U Down (Remix)\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Slim%20%28singer%29" "Slim"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Red%20Caf%C3%A9" "Red Café"]]}
+
+
+ {:year 2010
+  :song ["\"Haterz\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/OMG_Girlz" "OMG Girlz"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/New%20Boyz" "New Boyz"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Swizz_Beatz_Presents_G.H.E.T.T.O._Stories"
+  :song ["\"Guilty\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Swizz%20Beatz" "Swizz Beatz"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Bounty%20Killer" "Bounty Killer"]]}
+
+ {:year 2010
+  :song ["\"I Wanna Rock\""],
+  :artist ["DJ Amaze"]}
+
+ {:album-link "http://en.wikipedia.org/wiki/The_Ball_Street_Journal",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Break%20Ya%20Ankles"
+    "Break Ya Ankles"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/E-40" "E-40"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Shawty%20Lo" "Shawty Lo"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/I'm_a_Hustla"
+  :song ["\"B-Boy Stance\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Cassidy%20%28rapper%29" "Cassidy"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Swizz%20Beatz" "Swizz Beatz"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/More_Than_a_Game_(soundtrack)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Drop%20It%20Low" "Drop It Low"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Ester%20Dean" "Ester Dean"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Chris_Brown" "Chris Brown"]]}
+
+
+ {:year 1979
+  :song ["\"I Like Funky Music\""], :artist ["Uncle Louie"]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Down_by_Law_(MC_Shan_album)",
+  :song
+  ["\"The Bridge\" (portion sampled samples \"Impeach the President\" by "
+   ["http://en.wikipedia.org/wiki/Roy_C" "The Honey Drippers"]
+   ")"],
+  :artist [["http://en.wikipedia.org/wiki/MC%20Shan" "MC Shan"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Warriorz",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Ante%20Up%20%28song%29" "Ante Up"]
+   "\" (portion sampled samples \"Soul Sister, Brown Sugar\" by "
+   ["http://en.wikipedia.org/wiki/Sam_%26_Dave" "Sam & Dave"]
+   ")"],
+  :artist [["http://en.wikipedia.org/wiki/M.O.P." "M.O.P."]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Escape_(Whodini_album)"
+  :song ["\"Friends\""],
+  :artist [["http://en.wikipedia.org/wiki/Whodini" "Whodini"]]}
+ 
+ {:year 2008,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Get%20Up%20%2850%20Cent%20song%29"
+    "Get Up"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/50%20Cent" "50 Cent"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Yo!_Bum_Rush_the_Show",
+  :song
+  ["\"Public Enemy No. 1\" (portion sampled samples \"Feel the Heartbeat\" by "
+   ["http://en.wikipedia.org/wiki/Treacherous_Three"
+    "Treacherous Three"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Public%20Enemy%20%28group%29"
+    "Public Enemy"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Game_Face"
+  :song ["\"Rock It\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Master%20P" "Master P"]
+   " featuring 5th Ward Weebie and "
+   ["http://en.wikipedia.org/wiki/Krazy%20%28rapper%29" "Krazy"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Lust_for_Life_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Lust%20for%20Life%20%28song%29"
+    "Lust for Life"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Iggy%20Pop" "Iggy Pop"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/It_Takes_Two_(album)"
+  :song ["\"Joy and Pain\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Rob_Base_and_DJ_E-Z_Rock"
+    "Rob Base and DJ E-Z Rock"]]}
+ 
+ {:year 2010
+  :song ["\"Stop the Party\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Busta%20Rhymes" "Busta Rhymes"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Swizz%20Beatz" "Swizz Beatz"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/The_Tale_of_the_Tape"
+  :song ["\"The Big Beat\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Billy%20Squier" "Billy Squier"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Hard_to_Earn"
+  :song ["\"DWYCK\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Gang%20Starr" "Gang Starr"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Nice%20&%20Smooth" "Nice & Smooth"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Rubberneck_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Possum%20Kingdom" "Possum Kingdom"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Toadies" "Toadies"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Blackout!"
+  :song ["\"Tear It Off\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Method%20Man%20&%20Redman"
+    "Method Man & Redman"]]}
+
+
+ {:year 1997
+  :song ["\"Get Ready, Ready!\""],
+  :artist [["http://en.wikipedia.org/wiki/DJ_Jubilee" "DJ Jubilee"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Kings_of_Crunk",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Get%20Low%20%28song%29" "Get Low"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Lil%20Jon"
+    "Lil Jon and the East Side Boyz"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Ying%20Yang%20Twins"
+    "Ying Yang Twins"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Bridge_over_Troubled_Water",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Cecilia%20%28song%29" "Cecilia"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Simon%20and%20Garfunkel"
+    "Simon and Garfunkel"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/2_Hype"
+  :song ["\"Rollin' with Kid 'n Play\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Kid%20'n%20Play" "Kid 'n Play"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Big_Tyme"
+  :song ["\"We Got Our Own Thang\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Heavy%20D" "Heavy D & the Boyz"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Workingman%27s_Dead",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Casey%20Jones%20%28song%29"
+    "Casey Jones"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Grateful%20Dead"
+    "The Grateful Dead"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/AmeriKKKa's_Most_Wanted"
+  :song ["\"The Nigga Ya Love to Hate\""],
+  :artist [["http://en.wikipedia.org/wiki/Ice%20Cube" "Ice Cube"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Breaking_Atoms"
+  :song ["\"Looking at the Front Door\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Main%20Source" "Main Source"]]}
+
+
+ {:year 1968
+  :song ["\"Unwind Yourself\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Marva%20Whitney" "Marva Whitney"]]}
+ 
+ {:album-link "http://en.wikipedia.org/wiki/Life_After_Death"
+  :song ["\"Nasty Boy\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Notorious%20B.I.G."
+    "The Notorious B.I.G."]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Da_Baddest_Bitch"
+  :song ["\"Pull Over (Remix)\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Trina" "Trina"]
+   " featuring Kase, Deuce Poppi and "
+   ["http://en.wikipedia.org/wiki/Trick%20Daddy" "Trick Daddy"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Priceless_(Birdman_album)"
+  :song ["\"I Want It All\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Birdman%20%28rapper%29" "Birdman"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Kevin%20Rudolf" "Kevin Rudolf"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Lil%20Wayne" "Lil Wayne"]]}
+
+
+ {:year 2008
+  :song ["\"Wild Out\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Ying%20Yang%20Twins"
+    "Ying Yang Twins"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Battle_of_the_Sexes_(album)",
+  :song
+  ["\"Everybody Drunk\" (portion sampled samples \"You Don't Want Drama\" by "
+   ["http://en.wikipedia.org/wiki/8Ball%20&%20MJG" "8Ball & MJG"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Ludacris" "Ludacris"]
+   " featring "
+   ["http://en.wikipedia.org/wiki/Lil%20Scrappy" "Lil Scrappy"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Human_After_All"
+  :song ["\"Television Rules the Nation\""],
+  :artist [["http://en.wikipedia.org/wiki/Daft%20Punk" "Daft Punk"]]}
+
+ {:year 1972
+  :album-link nil,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Think%20%28About%20It%29"
+    "Think (About It)"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Lyn%20Collins" "Lyn Collins"]]}
+
+ {:year 2009
+  :song ["\"Hands Up\""],
+  :artist ["DJ OGB featuring Francisco and Gemeni"]}
+
+ {:year 1999
+  :album-link nil,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Windowlicker" "Windowlicker"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Aphex%20Twin" "Aphex Twin"]]}
+ {}
+ {:year 1999
+  :album-link nil,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Windowlicker" "Windowlicker"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Aphex%20Twin" "Aphex Twin"]]}
+
+
+ {:year 1999
+  :song ["\"Party Anthem\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Fatman%20Scoop" "Fatman Scoop"]
+   " and Big Kap"]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Computer_World"
+  :song ["\"It's More Fun to Compute\""],
+  :artist [["http://en.wikipedia.org/wiki/Kraftwerk" "Kraftwerk"]]}
+
+ {:year 2009
+  :song ["\"Endz\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Omega%20Red%20%28musician%29"
+    "O'mega Red"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Detail%20%28musician%29" "Detail"]]}
+ 
+ {:year 2009
+  :song ["\"The Dedication (Ay DJ)\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Jibbs" "Jibbs"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Lloyd%20%28singer%29" "Lloyd"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Let's_Get_It:_Thug_Motivation_101"
+  :song ["\"Bottom of the Map\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Young%20Jeezy" "Young Jeezy"]]}
+
+
+ {:year 2009
+  :song ["\"Grey Goose (Whatcha Sippin' On)\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Jean-Baptiste%20%28songwriter%29"
+    "Free School"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Kelis" "Kelis"]
+   " and "
+   ["http://en.wikipedia.org/wiki/apl.de.ap" "apl.de.ap"]]}
+
+
+ {:year 2008,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Move%20Shake%20Drop"
+    "Move Shake Drop"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/DJ%20Laz" "DJ Laz"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Flo%20Rida" "Flo Rida"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Casely" "Casely"]]}
+ 
+ 
+ {:year 1987
+  :song ["\"Give It All You Got (Doggy Style)\""],
+  :artist [["http://en.wikipedia.org/wiki/Afro-Rican" "Afro-Rican"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Let's_Get_It:_Thug_Motivation_101"
+  :song ["\"Bottom of the Map\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Young%20Jeezy" "Young Jeezy"]]}
+
+ {:year 2010
+  :song ["\"Go Crazy\""],
+  :artist
+  ["Krave featuring "
+   ["http://en.wikipedia.org/wiki/Flo%20Rida" "Flo Rida"]
+   ", "
+   ["http://en.wikipedia.org/wiki/Pitbull%20%28rapper%29" "Pitbull"]
+   ", and "
+   ["http://en.wikipedia.org/wiki/Lil%20Jon" "Lil Jon"]]}
+
+ {:year 2007
+  :song ["\"Haterz Everywhere\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/B.o.B" "B.o.B"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Rich%20Boy" "Rich Boy"]]}
+
+ {:year 1976
+  :song ["\"Honey Butt\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Mandrill%20%28band%29" "Mandrill"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Mandrilland"
+  :song ["\"Positive Thing\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Mandrill%20%28band%29" "Mandrill"]]}
+
+ {:year 2009
+  :song ["\"I'm the Shit\""],
+  :artist [["http://en.wikipedia.org/wiki/DJ_Class" "DJ Class"]]}
+
+ {:year 2010
+  :song ["\"Show My Ass\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Dominique_Young_Unique"
+    "Dominique Young Unique"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Love_and_Rockets_(album)",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/So%20Alive" "So Alive"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Love%20and%20Rockets"
+    "Love and Rockets"]]}
+
+ {:year 2006 :song ["\"Cream\""], :artist ["Federico Franchi"]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Fist_of_God"
+  :song ["\"Bounce\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/MSTRKRFT" "MSTRKRFT"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/N.O.R.E." "N.O.R.E."]]}
+
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Echoes_(The_Rapture_album)"
+  :song ["\"House of Jealous Lovers\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Rapture%20%28band%29"
+    "The Rapture"]]}
+
+ {:year 2009 :song ["\"Took the Night\""], :artist ["Chelley"]}
+
+ {:year 1966
+  :song ["\"Function at the Junction\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Shorty%20Long" "Shorty Long"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Evolution_(Dennis_Coffey_album)"
+  :song ["\"Scorpio\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Dennis%20Coffey" "Dennis Coffey"]
+   " and the Detroit Guitar Band"]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Book_of_Thugs"
+  :song ["\"Shut Up\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Trick%20Daddy" "Trick Daddy"]]}
+
+
+ {:year 1973
+  :song ["\"Chinese Chicken\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Duke%20Williams"
+    "Duke Williams and the Extremes"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/The_2_Live_Crew_Is_What_We_Are"
+  :song ["\"Get It Girl\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/2%20Live%20Crew" "2 Live Crew"]]}
+
+ {:year 1996
+  :album-link nil,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/My%20Boo%20%28Ghost%20Town%20DJ's%20song%29"
+    "My Boo"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Ghost%20Town%20DJ's"
+    "Ghost Town DJ's"]]}
+ 
+ {:year 1996
+  :album-link nil,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/My%20Boo%20%28Ghost%20Town%20DJ's%20song%29"
+    "My Boo"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Ghost%20Town%20DJ's"
+    "Ghost Town DJ's"]]}
+
+ {:year 2010
+  :song ["\"Freeze Me\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Young%20Dro" "Young Dro"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/T.I." "T.I."]
+   " and "
+   ["http://en.wikipedia.org/wiki/Gucci%20Mane" "Gucci Mane"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Root_Down_(EP)#.22Root_Down.22",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Root%20Down%20%28EP%29#.22Root_Down.22"
+    "Root Down"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Beastie%20Boys" "Beastie Boys"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/B.o.B_Presents:_The_Adventures_of_Bobby_Ray"
+  :song ["\"Bet I\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/B.o.B" "B.o.B"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/T.I." "T.I."]
+   " and Playboy Tre"]}
+
+
+ {:year 2010
+  :song ["\"Good for My Money\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Baby%20Bash" "Baby Bash"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Lloyd%20%28singer%29" "Lloyd"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Kid_A",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/Idioteque" "Idioteque"] "\""],
+  :artist [["http://en.wikipedia.org/wiki/Radiohead" "Radiohead"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Van_Halen_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Eruption%20%28instrumental%29"
+    "Eruption"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Van%20Halen" "Van Halen"]]}
+
+ {:year 1999
+  :song ["\"Pop Those Thangs\""],
+  :artist [["http://en.wikipedia.org/wiki/DJ%20Funk" "DJ Funk"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Friday_Night_Lights_(mixtape)"
+  :song ["\"Blow Up\""],
+  :artist [["http://en.wikipedia.org/wiki/J.%20Cole" "J. Cole"]]}
+ {:year 2010
+  :song ["\"Go Shorty Go\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Travis%20Porter%20%28group%29"
+    "Travis Porter"]]}
+ {}
+ {:year 2010
+  :song ["\"Go Shorty Go\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Travis%20Porter%20%28group%29"
+    "Travis Porter"]]}
+
+ {
+  :album-link "http://en.wikipedia.org/wiki/Til_the_Casket_Drops"
+  :song ["\"Champion\""],
+  :artist [["http://en.wikipedia.org/wiki/Clipse" "Clipse"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Friday_Night_Lights_(mixtape)"
+  :song ["\"Blow Up\""],
+  :artist [["http://en.wikipedia.org/wiki/J.%20Cole" "J. Cole"]]}
+
+ {:year 2010,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Reverse%20Cowgirl%20%28song%29"
+    "Reverse Cowgirl"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/T-Pain" "T-Pain"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Young%20Jeezy" "Young Jeezy"]]}
+
+
+
+ {:year 2009
+  :song ["\"Work Dat Lumba\""],
+  :artist ["Young T featuring Treal Lee"]}
+
+ {:album-link "http://en.wikipedia.org/wiki/The_Cars_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Moving%20in%20Stereo"
+    "Moving in Stereo"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/The%20Cars" "The Cars"]]}
+
+ {:year 2010
+  :song ["\"Yeah\""],
+  :artist [["http://en.wikipedia.org/wiki/J-Kwon" "J-Kwon"]]}
+ {:year 2009
+  :song ["\"Flex (Remix)\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Party%20Boyz" "Party Boyz"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Dorrough" "Dorrough"]
+   " and Charlie Boy"]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Me_Against_the_World"
+  :song ["\"Me Against the World\""],
+  :artist [["http://en.wikipedia.org/wiki/Tupac_Shakur" "2Pac"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/When_the_Smoke_Clears:_Sixty_6,_Sixty_1"
+  :song ["\"Who Run It\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Three%206%20Mafia" "Three 6 Mafia"]]}
+ {}
+
+ {:year 2010
+  :song ["\"Lotta Money\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Diamond%20%28rapper%29" "Diamond"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/Freedom_of_Choice",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/Whip%20It" "Whip It"] "\""],
+  :artist [["http://en.wikipedia.org/wiki/Devo" "Devo"]]}
+ {:year 2009
+  :song ["\"Head 'N Shoulders\""],
+  :artist
+  ["SupaSTAAR featuring "
+   ["http://en.wikipedia.org/wiki/Gorilla%20Zoe" "Gorilla Zoe"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Yung%20Joc" "Yung Joc"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/In_a_Perfect_World...",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Turnin'%20Me%20On" "Turnin' Me On"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Keri%20Hilson" "Keri Hilson"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Lil%20Wayne" "Lil Wayne"]]}
+
+ {:year 2009
+  :song ["\"Everythang\""],
+  :artist [["http://en.wikipedia.org/wiki/Crooked%20I" "Crooked I"]]}
+ {:year 2006
+  :album-link nil,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Snap%20Yo%20Fingers"
+    "Snap Yo Fingers"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Lil%20Jon" "Lil Jon"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/E-40" "E-40"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Sean%20P" "Sean Paul"]]}
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Freedom_of_Choice",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Gates%20of%20Steel" "Gates of Steel"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Devo" "Devo"]]}
+
+
+
+ {:album-link "http://en.wikipedia.org/wiki/Hood_Hop_2.5"
+  :song ["\"Tipsy '09\""],
+  :artist [["http://en.wikipedia.org/wiki/J-Kwon" "J-Kwon"]]}
+ {:year 2010
+  :album-link nil,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Whip%20My%20Hair" "Whip My Hair"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Willow%20Smith" "Willow Smith"]]}
+ {:year 2010
+  :song ["\"Found My Swag\""],
+  :artist
+  ["The Bangz featuring "
+   ["http://en.wikipedia.org/wiki/New%20Boyz" "New Boyz"]]}
+ {}
+ {:album-link "http://en.wikipedia.org/wiki/The_Appeal:_Georgia%27s_Most_Wanted"
+  :song ["\"Making Love to the Money\""],
+  :artist [["http://en.wikipedia.org/wiki/Gucci%20Mane" "Gucci Mane"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Before_the_Storm_(Darude_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Sandstorm%20%28song%29" "Sandstorm"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Darude" "Darude"]]}
+
+
+ {:year 2009
+  :song ["\"Fucked Up\""],
+  :artist
+  ["T-No featuring "
+   ["http://en.wikipedia.org/wiki/Slick%20Rick" "Slick Rick"]]}
+
+
+ {:year 2009
+  :song ["\"Futuristic Slide\""],
+  :artist [["http://en.wikipedia.org/wiki/Unk" "DJ Unk"]]}
+ {:year 2009
+  :song ["\"I'm the Shit\""],
+  :artist [["http://en.wikipedia.org/wiki/Gucci%20Mane" "Gucci Mane"]]}
+
+ {:album-link "http://en.wikipedia.org/wiki/C.A.S.H._(album)"
+  :song ["\"Face to Face\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Cassidy%20%28rapper%29" "Cassidy"]]}
+
+ {:year 2008
+  :album-link nil,
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Lookin%20Boy" "Lookin Boy"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Hotstylz" "Hotstylz"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Yung%20Joc" "Yung Joc"]]}
+
+ {:year 2008
+  :song ["\"Bust It Open\""],
+  :artist [["http://en.wikipedia.org/wiki/Lil%27_Wil" "Lil Wil"]]}
+
+ {:year 2009
+  :song ["\"Fight Come wit It\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Mann%20%28rapper%29" "Mann"]
+   " featuring Yung Sneed"]}
+ {:album-link "http://en.wikipedia.org/wiki/Ridin'_Dirty"
+  :song ["\"One Day\""],
+  :artist [["http://en.wikipedia.org/wiki/UGK" "UGK"]]}
+ {:year 2010
+  :song ["\"Marvelous\""],
+  :artist
+  ["Chick Da Flyest featuring "
+   ["http://en.wikipedia.org/wiki/Travis%20Porter%20%28group%29"
+    "Travis Porter"]]}
+ {:year 2010
+  :song ["\"Come See Bout Me\""],
+  :artist
+  ["Barbee featuring " ["http://en.wikipedia.org/wiki/Trina" "Trina"]]}
+ {:year 2010 
+  :song ["\"Hustler\""],
+  :artist
+  ["Rosalind Rice featuring "
+   ["http://en.wikipedia.org/wiki/French%20Montana" "French Montana"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Philadelphia_Freeway"
+  :song ["\"Flipside\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Freeway%20%28rapper%29" "Freeway"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Peedi%20Crakk" "Peedi Crakk"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Game_Face"
+  :song ["\"Ooohhhwee\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Master%20P" "Master P"]
+   " featuring 5th Ward Weebie"]}
+
+ {:album-link
+  "http://en.wikipedia.org/wiki/...And_Out_Come_the_Wolves",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/Ruby%20Soho" "Ruby Soho"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Rancid%20%28band%29" "Rancid"]]}
+ {:album-link "http://en.wikipedia.org/wiki/...And_Then_There_Was_X",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/What's%20My%20Name%3F%20%28DMX%20song%29"
+    "What's My Name?"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/DMX%20%28rapper%29" "DMX"]]}
+ {:album-link "http://en.wikipedia.org/wiki/...And_Then_There_Was_X",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Party%20Up%20%28Up%20in%20Here%29"
+    "Party Up (Up in Here)"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/DMX%20%28rapper%29" "DMX"]]}
+ {:album-link "http://en.wikipedia.org/wiki/1984_(Van_Halen_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Jump%20%28Van%20Halen%20song%29"
+    "Jump"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Van%20Halen" "Van Halen"]]}
+ {:album-link "http://en.wikipedia.org/wiki/1999_(Prince_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Delirious%20%28Prince%20song%29"
+    "Delirious"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Prince%20%28musician%29" "Prince"]]}
+ {:album-link "http://en.wikipedia.org/wiki/2001_(Dr._Dre_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/The%20Next%20Episode"
+    "The Next Episode"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Dr.%20Dre" "Dr. Dre"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Snoop%20Dogg" "Snoop Dogg"]
+   ", "
+   ["http://en.wikipedia.org/wiki/Nate%20Dogg" "Nate Dogg"]
+   ", and "
+   ["http://en.wikipedia.org/wiki/Kurupt" "Kurupt"]]}
+ {:album-link "http://en.wikipedia.org/wiki/3_Feet_High_and_Rising",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Me%20Myself%20and%20I%20%28De%20La%20Soul%20song%29"
+    "Me Myself and I"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/De%20La%20Soul" "De La Soul"]]}
+ {:album-link "http://en.wikipedia.org/wiki/8_Mile_(soundtrack)",
+  :song ["\"" ["http://en.wikipedia.org/wiki/Wanksta" "Wanksta"] "\""],
+  :artist [["http://en.wikipedia.org/wiki/50%20Cent" "50 Cent"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/A_Flock_of_Seagulls_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/I%20Ran%20%28So%20Far%20Away%29"
+    "I Ran (So Far Away)"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/A%20Flock%20of%20Seagulls"
+    "A Flock of Seagulls"]]}
+ {:album-link "http://en.wikipedia.org/wiki/After_the_Snow",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/I%20Melt%20with%20You"
+    "I Melt with You"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Modern%20English%20%28band%29"
+    "Modern English"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Aftermath_(The_Rolling_Stones_album)#North_American_release",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Paint%20It,%20Black"
+    "Paint It, Black"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Rolling%20Stones"
+    "The Rolling Stones"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Agents_of_Fortune",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/%28Don't%20Fear%29%20the%20Reaper"
+    "(Don't Fear) the Reaper"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Blue%20Oyster%20Cult"
+    "Blue Oyster Cult"]]}
+ {:album-link "http://en.wikipedia.org/wiki/All_Eyez_on_Me",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/How%20Do%20U%20Want%20It"
+    "How Do U Want It"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Tupac_Shakur" "2Pac"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/K-Ci%20&%20JoJo" "K-Ci & JoJo"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/All_for_You_(Janet_Jackson_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Someone%20to%20Call%20My%20Lover"
+    "Someone to Call My Lover"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Janet%20Jackson" "Janet Jackson"]]}
+ {:album-link "http://en.wikipedia.org/wiki/All_the_Rage_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Tenderness%20%28song%29"
+    "Tenderness"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/General%20Public" "General Public"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Analog_Worms_Attack",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/Flat%20Beat" "Flat Beat"] "\""],
+  :artist [["http://en.wikipedia.org/wiki/Mr.%20Oizo" "Mr. Oizo"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Animal_(Kesha_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Tik%20Tok%20%28song%29" "Tik Tok"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Kesha" "Kesha"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Attention:_Deficit",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Pretty%20Girls%20%28Wale%20song%29"
+    "Pretty Girls"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Wale%20%28rapper%29" "Wale"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Gucci%20Mane" "Gucci Mane"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/B.o.B_Presents:_The_Adventures_of_Bobby_Ray",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Nothin'%20on%20You" "Nothin' on You"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/B.o.B" "B.o.B"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Bruno%20Mars" "Bruno Mars"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Bananarama_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Cruel%20Summer%20%28song%29"
+    "Cruel Summer"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Bananarama" "Bananarama"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Banned_in_the_U.S.A.",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Banned%20in%20the%20U.S.A.%20%28song%29"
+    "Banned in the U.S.A."]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/2%20Live%20Crew" "2 Live Crew"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Battle_of_the_Sexes_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/My%20Chick%20Bad" "My Chick Bad"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Ludacris" "Ludacris"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Nicki%20Minaj" "Nicki Minaj"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Battle_of_the_Sexes_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/How%20Low%20%28Ludacris%20song%29"
+    "How Low"]
+   "\" (portion sampled samples \""
+   ["http://en.wikipedia.org/wiki/Bring%20the%20Noise"
+    "Bring the Noise"]
+   "\" by "
+   ["http://en.wikipedia.org/wiki/Public%20Enemy%20%28group%29"
+    "Public Enemy"]
+   ")"],
+  :artist [["http://en.wikipedia.org/wiki/Ludacris" "Ludacris"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Beast_(V.I.C._album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Wobble%20%28V.I.C.%20song%29"
+    "Wobble"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/V.I.C." "V.I.C."]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Bionic_(Christina_Aguilera_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Woohoo%20%28Christina%20Aguilera%20song%29"
+    "Woohoo"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Christina%20Aguilera"
+    "Christina Aguilera"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Nicki%20Minaj" "Nicki Minaj"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Book_of_Dreams_(Steve_Miller_Band_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Jungle%20Love%20%28Steve%20Miller%20Band%20song%29"
+    "Jungle Love"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Steve%20Miller%20Band"
+    "Steve Miller Band"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Born_in_the_U.S.A.",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Dancing%20in%20the%20Dark%20%28Bruce%20Springsteen%20song%29"
+    "Dancing in the Dark"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Bruce%20Springsteen"
+    "Bruce Springsteen"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Break_the_Pot",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Drop%20%28Rich%20Boy%20song%29"
+    "Drop"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Rich%20Boy" "Rich Boy"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Bridge_of_Spies_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Heart%20and%20Soul%20%28T'Pau%20song%29"
+    "Heart and Soul"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/T%27Pau_(band)" "T'Pau"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Brotherhood_(New_Order_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Bizarre%20Love%20Triangle"
+    "Bizarre Love Triangle"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/New%20Order" "New Order"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Category_F5",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Wetter%20%28Twista%20song%29"
+    "Wetter"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Twista" "Twista"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Erika%20Shevon" "Erika Shevon"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Cherry_Pie_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Cherry%20Pie%20%28Warrant%20song%29"
+    "Cherry Pie"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Warrant%20%28American%20band%29"
+    "Warrant"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Chyna_Doll_(Album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Hot%20Spot%20%28song%29" "Hot Spot"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Foxy%20Brown%20%28rapper%29"
+    "Foxy Brown"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Circus_(Britney_Spears_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Circus%20%28song%29" "Circus"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Britney%20Spears" "Britney Spears"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Cloud_Nine_(George_Harrison_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Got_My_Mind_Set_on_You#George_Harrison_version"
+    "Got My Mind Set on You"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/George%20Harrison"
+    "George Harrison"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Combat_Rock",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Should%20I%20Stay%20or%20Should%20I%20Go"
+    "Should I Stay or Should I Go"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/The%20Clash" "The Clash"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Computer_Games_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Atomic%20Dog" "Atomic Dog"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/George%20Clinton%20%28musician%29"
+    "George Clinton"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Crime_Mob_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Knuck%20If%20You%20Buck"
+    "Knuck If You Buck"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Crime%20Mob" "Crime Mob"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Criminal_Minded",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/South_Bronx_(song)" "South Bronx"]
+   "\" (portion sampled samples \""
+   ["http://en.wikipedia.org/wiki/Get_Up_Offa_That_Thing"
+    "Get Up Offa That Thing"]
+   "\" by "
+   ["http://en.wikipedia.org/wiki/James_Brown" "James Brown"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Boogie%20Down%20Productions"
+    "Boogie Down Productions"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Cypress_Hill_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/How%20I%20Could%20Just%20Kill%20a%20Man"
+    "How I Could Just Kill a Man"]
+   "\" (portion sampled samples \"Midnight Theme\" by "
+   ["http://en.wikipedia.org/wiki/Manzel" "Manzel"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Cypress%20Hill" "Cypress Hill"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Dangerous_(Michael_Jackson_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Black%20or%20White" "Black or White"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Michael%20Jackson"
+    "Michael Jackson"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Def_Jam%27s_Rush_Hour_Soundtrack",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Can%20I%20Get%20A..."
+    "Can I Get A..."]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Jay-Z" "Jay-Z"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Amil" "Amil"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Ja%20Rule" "Ja Rule"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Diamonds_and_Pearls",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/Gett%20Off" "Gett Off"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Prince%20%28musician%29"
+    "Prince & the New Power Generation"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Diana_Ross_Presents_The_Jackson_5",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/I%20Want%20You%20Back"
+    "I Want You Back"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Jackson%205" "The Jackson 5"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/One%20More%20Time%20%28Daft%20Punk%20song%29"
+    "One More Time"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Daft%20Punk" "Daft Punk"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Digital%20Love" "Digital Love"]
+   "\" (portion sampled samples \"I Love You More\" by "
+   ["http://en.wikipedia.org/wiki/George%20Duke" "George Duke"]
+   ")"],
+  :artist [["http://en.wikipedia.org/wiki/Daft%20Punk" "Daft Punk"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Disraeli_Gears",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Sunshine%20of%20Your%20Love"
+    "Sunshine of Your Love"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Cream%20%28band%29" "Cream"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Dorrough_Music",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Ice%20Cream%20Paint%20Job"
+    "Ice Cream Paint Job"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Dorrough" "Dorrough"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Dreamland_(Black_Box_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Everybody%20Everybody%20%28song%29"
+    "Everybody Everybody"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Black%20Box%20%28band%29"
+    "Black Box"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Duets:_The_Final_Chapter",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Nasty%20Girl%20%28The%20Notorious%20B.I.G.%20song%29"
+    "Nasty Girl"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Notorious%20B.I.G."
+    "The Notorious B.I.G."]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Sean%20Combs" "Diddy"]
+   ", "
+   ["http://en.wikipedia.org/wiki/Nelly" "Nelly"]
+   ", "
+   ["http://en.wikipedia.org/wiki/Jagged%20Edge%20%28group%29"
+    "Jagged Edge"]
+   ", and "
+   ["http://en.wikipedia.org/wiki/Avery%20Storm" "Avery Storm"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Duets:_The_Final_Chapter",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Nasty%20Girl%20%28The%20Notorious%20B.I.G.%20song%29"
+    "Nasty Girl"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Notorious%20B.I.G."
+    "The Notorious B.I.G."]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Sean%20Combs" "Diddy"]
+   ", "
+   ["http://en.wikipedia.org/wiki/Nelly" "Nelly"]
+   ", "
+   ["http://en.wikipedia.org/wiki/Jagged%20Edge%20%28group%29"
+    "Jagged Edge"]
+   ", and "
+   ["http://en.wikipedia.org/wiki/Avery%20Storm" "Avery Storm"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Dummy_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Sour%20Times" "Sour Times"]
+   "\" (portion sampled samples \"Danube Incident\" by "
+   ["http://en.wikipedia.org/wiki/Lalo%20Schifrin" "Lalo Schifrin"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Portishead%20%28band%29"
+    "Portishead"]]}
+ {:album-link "http://en.wikipedia.org/wiki/E._1999_Eternal",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/1st%20of%20tha%20Month"
+    "1st of tha Month"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Bone%20Thugs-n-Harmony"
+    "Bone Thugs-n-Harmony"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Eat_to_the_Beat",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Dreaming%20%28Blondie%20song%29"
+    "Dreaming"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Blondie%20%28band%29" "Blondie"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Fever_(Kylie_Minogue_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Can't%20Get%20You%20Out%20of%20My%20Head"
+    "Can't Get You Out of My Head"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Kylie%20Minogue" "Kylie Minogue"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Flockaveli",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Hard%20in%20da%20Paint"
+    "Hard in da Paint"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Waka%20Flocka%20Flame"
+    "Waka Flocka Flame"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/From_the_Muddy_Banks_of_the_Wishkah",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Aneurysm%20%28song%29" "Aneurysm"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Nirvana%20%28band%29" "Nirvana"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Funeral_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Wake%20Up%20%28Arcade%20Fire%20song%29"
+    "Wake Up"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Arcade%20Fire" "Arcade Fire"]]}
+ {:album-link "http://en.wikipedia.org/wiki/FutureSex/LoveSounds",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/SexyBack" "SexyBack"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Justin%20Timberlake"
+    "Justin Timberlake"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Future_Shock_(Herbie_Hancock_album)",
+  :song ["\"" ["http://en.wikipedia.org/wiki/Rockit" "Rockit"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Herbie%20Hancock" "Herbie Hancock"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Get_Rich_or_Die_Tryin%27_Soundtrack",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Window%20Shopper" "Window Shopper"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/50%20Cent" "50 Cent"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Gettin%27_Ready",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Get%20Ready%20%28The%20Temptations%20song%29"
+    "Get Ready"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Temptations"
+    "The Temptations"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Ghetto_Fabolous",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Can't%20Deny%20It" "Can't Deny It"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Fabolous" "Fabolous"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Nate%20Dogg" "Nate Dogg"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Ghetto_Fabolous",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Young%27n_(Holla_Back)"
+    "Young'n (Holla Back)"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Fabolous" "Fabolous"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Ginuwine...the_Bachelor",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Pony%20%28Ginuwine%20song%29" "Pony"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Ginuwine" "Ginuwine"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Go!_Pop!_Bang!",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Bang%20%28Rye%20Rye%20song%29"
+    "Bang"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Rye%20Rye" "Rye Rye"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/M.I.A.%20%28rapper%29" "M.I.A."]]}
+ {:album-link "http://en.wikipedia.org/wiki/Guilt_(Mims_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Move%20%28If%20You%20Wanna%29"
+    "Move (If You Wanna)"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Mims%20%28rapper%29" "Mims"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Heart_Break",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/If%20It%20Isn't%20Love"
+    "If It Isn't Love"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/New%20Edition" "New Edition"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Heaven_on_Earth_(Belinda_Carlisle_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Heaven%20Is%20a%20Place%20on%20Earth"
+    "Heaven Is a Place on Earth"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Belinda%20Carlisle"
+    "Belinda Carlisle"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Hello_Nasty",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Intergalactic%20%28song%29"
+    "Intergalactic"]
+   "\" (portion sampled samples \""
+   ["http://en.wikipedia.org/wiki/The%20New%20Style%20%28song%29"
+    "The New Style"]
+   "\" by "
+   ["http://en.wikipedia.org/wiki/Beastie%20Boys" "Beastie Boys"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Beastie%20Boys" "Beastie Boys"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Hints,_Allegations,_and_Things_Left_Unsaid",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Shine%20%28Collective%20Soul%20song%29"
+    "Shine"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Collective%20Soul"
+    "Collective Soul"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/I%27ve_Got_So_Much_to_Give_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/I'm%20Gonna%20Love%20You%20Just%20a%20Little%20More%20Baby"
+    "I'm Gonna Love You Just a Little More Baby"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Barry%20White" "Barry White"]]}
+ {:album-link "http://en.wikipedia.org/wiki/ISouljaBoyTellem",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/Bird%20Walk" "Bird Walk"] "\""],
+  :artist [["http://en.wikipedia.org/wiki/Soulja%20Boy" "Soulja Boy"]]}
+ {:album-link "http://en.wikipedia.org/wiki/I_Am..._Sasha_Fierce",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Single%20Ladies%20%28Put%20a%20Ring%20on%20It%29"
+    "Single Ladies (Put a Ring on It)"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Beyonc%C3%A9" "Beyoncé"]]}
+ {:album-link "http://en.wikipedia.org/wiki/I_Am..._Sasha_Fierce",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Diva_%28Beyonc%C3%A9_song%29" "Diva"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Beyonc%C3%A9" "Beyoncé"]]}
+ {:album-link "http://en.wikipedia.org/wiki/I_Should_Coco",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Alright%20%28Supergrass%20song%29"
+    "Alright"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Supergrass" "Supergrass"]]}
+ {:album-link "http://en.wikipedia.org/wiki/I_Wish_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/I%20Wish%20%28Skee-Lo%20song%29"
+    "I Wish"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Skee-Lo" "Skee-Lo"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Imagine_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Imagine%20%28song%29" "Imagine"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/John%20Lennon" "John Lennon"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/In_Love_%26_War_(Amerie_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Why%20R%20U" "Why R U"]
+   "\" (portion sampled samples \""
+   ["http://en.wikipedia.org/wiki/Ego_Trippin%27_(song)"
+    "Ego Trippin'"]
+   "\" by "
+   ["http://en.wikipedia.org/wiki/Ultramagnetic_MCs"
+    "Ultramagnetic MCs"]
+   ")"],
+  :artist [["http://en.wikipedia.org/wiki/Amerie" "Amerie"]]}
+ {:album-link "http://en.wikipedia.org/wiki/In_the_Jungle_Groove",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Funky%20Drummer" "Funky Drummer"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/James%20Brown" "James Brown"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Invisible_Touch",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Tonight,%20Tonight,%20Tonight"
+    "Tonight, Tonight, Tonight"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Genesis%20%28band%29" "Genesis"]]}
+ {:album-link "http://en.wikipedia.org/wiki/It%27s_Blitz!",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Heads%20Will%20Roll%20%28Yeah%20Yeah%20Yeahs%20song%29"
+    "Heads Will Roll"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Yeah%20Yeah%20Yeahs"
+    "Yeah Yeah Yeahs"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/It%27s_Dark_and_Hell_Is_Hot",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Get%20at%20Me%20Dog" "Get at Me Dog"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/DMX%20%28rapper%29" "DMX"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Sheek%20Louch" "Sheek Louch"]]}
+ {:album-link "http://en.wikipedia.org/wiki/It_Ain%27t_Safe_No_More",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Make%20It%20Clap" "Make It Clap"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Busta%20Rhymes" "Busta Rhymes"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Sean%20Paul" "Sean Paul"]
+   " and Spliff Star"]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/It_Takes_a_Nation_of_Millions_to_Hold_Us_Back",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Bring%20the%20Noise"
+    "Bring the Noise"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Public%20Enemy%20%28group%29"
+    "Public Enemy"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Jagged_Little_Pill",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/You%20Oughta%20Know"
+    "You Oughta Know"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Alanis%20Morissette"
+    "Alanis Morissette"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Janet_Jackson%27s_Rhythm_Nation_1814",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Love%20Will%20Never%20Do%20%28Without%20You%29"
+    "Love Will Never Do (Without You)"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Janet%20Jackson" "Janet Jackson"]]}
+ {:album-link "http://en.wikipedia.org/wiki/John_P._Kelly_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Lights,%20Camera,%20Action!"
+    "Lights, Camera, Action!"]
+   " (Remix)\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Mr.%20Cheeks" "Mr. Cheeks"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Missy_Elliott" "Missy Elliot"]
+   ", "
+   ["http://en.wikipedia.org/wiki/Sean%20Combs" "Diddy"]
+   ", and "
+   ["http://en.wikipedia.org/wiki/Petey%20Pablo" "Petey Pablo"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Jordan_Knight_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Give%20It%20to%20You%20%28Jordan%20Knight%20song%29"
+    "Give It to You"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Jordan%20Knight" "Jordan Knight"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Kala_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Paper%20Planes" "Paper Planes"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/M.I.A.%20%28rapper%29" "M.I.A."]]}
+ {:album-link "http://en.wikipedia.org/wiki/Kick_(INXS_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Need%20You%20Tonight"
+    "Need You Tonight"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/INXS" "INXS"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Kiss_Me_Deadly_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Dancing%20with%20Myself"
+    "Dancing with Myself"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Billy%20Idol" "Billy Idol"]]}
+ {:album-link "http://en.wikipedia.org/wiki/La_Bella_Mafia",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/The%20Jump%20Off" "The Jump Off"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Lil'%20Kim" "Lil' Kim"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Mr.%20Cheeks" "Mr. Cheeks"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Last_Train_to_Paris",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Hello%20Good%20Morning"
+    "Hello Good Morning"]
+   " (Remix)\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Diddy_%E2%80%93_Dirty_Money"
+    "Diddy-Dirty Money"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Rick_Ross" "Rick Ross"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Nicki%20Minaj" "Nicki Minaj"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Layla_and_Other_Assorted_Love_Songs",
+  :song ["\"" ["http://en.wikipedia.org/wiki/Layla" "Layla"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Derek%20and%20the%20Dominos"
+    "Derek and the Dominos"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Let%27s_Live_for_Today_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Let's%20Live%20for%20Today%20%28song%29"
+    "Let's Live for Today"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Grass%20Roots"
+    "The Grass Roots"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Licensed_to_Ill",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Paul%20Revere%20%28song%29"
+    "Paul Revere"]
+   "\" (portion sampled samples \"It's Yours\" by "
+   ["http://en.wikipedia.org/wiki/T%20La%20Rock" "T La Rock"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Jazzy%20Jay" "Jazzy Jay"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Beastie%20Boys" "Beastie Boys"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Life_After_Death",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Hypnotize%20%28The%20Notorious%20B.I.G.%20song%29"
+    "Hypnotize"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Notorious%20B.I.G."
+    "The Notorious B.I.G."]]}
+ {:album-link "http://en.wikipedia.org/wiki/Life_Story_(album)",
+  :song ["\"" ["http://en.wikipedia.org/wiki/Whoa!" "Whoa!"] "\""],
+  :artist [["http://en.wikipedia.org/wiki/Black%20Rob" "Black Rob"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Listen_Without_Prejudice_Vol._1",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Freedom!%20'90" "Freedom! '90"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/George%20Michael" "George Michael"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Malice_n_Wonderland",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Gangsta%20Luv" "Gangsta Luv"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Snoop%20Dogg" "Snoop Dogg"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/The-Dream" "The-Dream"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Man_on_the_Moon:_The_End_of_Day",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Make%20Her%20Say" "Make Her Say"]
+   "\" (portion sampled samples \"In the Morning Time\" by "
+   ["http://en.wikipedia.org/wiki/Tramaine_Hawkins" "Tramaine"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Kid%20Cudi" "Kid Cudi"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Kanye%20West" "Kanye West"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Common%20%28rapper%29" "Common"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Man_on_the_Moon:_The_End_of_Day",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Day%20'n'%20Nite" "Day 'n' Nite"]
+   " ("
+   ["http://en.wikipedia.org/wiki/Crookers" "Crookers"]
+   " Remix)\""],
+  :artist [["http://en.wikipedia.org/wiki/Kid%20Cudi" "Kid Cudi"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Mellow_Gold",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Loser%20%28Beck%20song%29" "Loser"]
+   "\" (portion sampled samples \"I Walk on Gilded Splinters\" by "
+   ["http://en.wikipedia.org/wiki/Johnny%20Jenkins" "Johnny Jenkins"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Beck%20%28musician%29" "Beck"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Miss_E..._So_Addictive",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Get%20Ur%20Freak%20On"
+    "Get Ur Freak On"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Missy%20Elliott" "Missy Elliott"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Mony_Mony_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Mony_Mony#Billy_Idol_version"
+    "Mony Mony"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Billy%20Idol" "Billy Idol"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/More_Songs_About_Buildings_and_Food",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Take%20Me%20to%20the%20River%23Talking%20Heads%20and%20later%20versions"
+    "Take Me to the River"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Talking%20Heads" "Talking Heads"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/More_Than_a_Game_(soundtrack)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Forever%20%28Drake%20song%29"
+    "Forever"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Drake_%28rapper%29" "Drake"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Kanye%20West" "Kanye West"]
+   ", "
+   ["http://en.wikipedia.org/wiki/Lil%20Wayne" "Lil Wayne"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Eminem" "Eminem"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Mr._Big_Stuff_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Mr.%20Big%20Stuff" "Mr. Big Stuff"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Jean%20Knight" "Jean Knight"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Naughty_by_Nature_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Everything's%20Gonna%20Be%20Alright%20%28Naughty%20by%20Nature%20song%29"
+    "Everything's Gonna Be Alright"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Naughty%20by%20Nature"
+    "Naughty by Nature"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Nevermind",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/In%20Bloom" "In Bloom"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Nirvana%20%28band%29" "Nirvana"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Night_and_Day_(Joe_Jackson_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Steppin'%20Out%20%28Joe%20Jackson%20song%29"
+    "Steppin' Out"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Joe%20Jackson%20%28musician%29"
+    "Joe Jackson"]]}
+ {:album-link "http://en.wikipedia.org/wiki/No_Mercy_(T.I._album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Got%20Your%20Back" "Got Your Back"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/T.I." "T.I."]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Keri%20Hilson" "Keri Hilson"]]}
+ {:album-link "http://en.wikipedia.org/wiki/One_Man_Band_Man",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/It's%20Me%20Bitches"
+    "It's Me Bitches"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Swizz%20Beatz" "Swizz Beatz"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Out_of_the_Blue_(Electric_Light_Orchestra_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Mr.%20Blue%20Sky" "Mr. Blue Sky"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Electric%20Light%20Orchestra"
+    "Electric Light Orchestra"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Pablo_Honey",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Creep%20%28Radiohead%20song%29"
+    "Creep"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Radiohead" "Radiohead"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Paid_in_Full_(album)",
+  :song
+  ["\"Better Days (And the Bottom Drops Out)\" (portion sampled samples \""
+   ["http://en.wikipedia.org/wiki/Eric_B._Is_President"
+    "Eric B. Is President"]
+   "\" by "
+   ["http://en.wikipedia.org/wiki/Eric_B._%26_Rakim" "Eric B. & Rakim"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Citizen%20King" "Citizen King"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Paul%27s_Boutique",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Hey%20Ladies" "Hey Ladies"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Beastie%20Boys" "Beastie Boys"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Pink_Friday",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Your%20Love%20%28Nicki%20Minaj%20song%29"
+    "Your Love"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Nicki%20Minaj" "Nicki Minaj"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Pink_Friday",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Check%20It%20Out%20%28song%29"
+    "Check It Out"]
+   "\" (portion sampled samples \""
+   ["http://en.wikipedia.org/wiki/Think_(About_It)" "Think (About It)"]
+   "\" by "
+   ["http://en.wikipedia.org/wiki/Lyn_Collins" "Lyn Collin"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/will.i.am" "will.i.am"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Nicki_Minaj" "Nicki Minaj"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Please_(Pet_Shop_Boys_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Opportunities%20%28Let's%20Make%20Lots%20of%20Money%29"
+    "Opportunities (Let's Make Lots of Money)"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Pet%20Shop%20Boys" "Pet Shop Boys"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Pray_IV_Reign",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Pop%20Champagne" "Pop Champagne"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Jim%20Jones%20%28rapper%29"
+    "Jim Jones"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Ron%20Browz" "Ron Browz"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Juelz%20Santana" "Juelz Santana"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Press_Play_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Tell%20Me%20%28Diddy%20song%29"
+    "Tell Me"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Sean%20Combs" "Diddy"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Christina%20Aguilera"
+    "Christina Aguilera"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Priceless_(Birdman_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Money%20to%20Blow" "Money to Blow"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Birdman%20%28rapper%29" "Birdman"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Drake%20%28rapper%29" "Drake"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Lil%20Wayne" "Lil Wayne"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Primitive_Love",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Words%20Get%20in%20the%20Way"
+    "Words Get in the Way"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Gloria%20Estefan" "Gloria Estefan"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Miami%20Sound%20Machine"
+    "Miami Sound Machine"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Project_Funk_da_World",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Flava%20in%20Ya%20Ear"
+    "Flava in Ya Ear"]
+   " (Remix)\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Craig%20Mack" "Craig Mack"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/The%20Notorious%20B.I.G."
+    "The Notorious B.I.G."]
+   ", Mack, "
+   ["http://en.wikipedia.org/wiki/Rampage%20%28rapper%29" "Rampage"]
+   ", "
+   ["http://en.wikipedia.org/wiki/LL%20Cool%20J" "LL Cool J"]
+   " and "
+   ["http://en.wikipedia.org/wiki/Busta%20Rhymes" "Busta Rhymes"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/R%26G_(Rhythm_%26_Gangsta):_The_Masterpiece",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Drop%20It%20Like%20It's%20Hot"
+    "Drop It Like It's Hot"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Snoop%20Dogg" "Snoop Dogg"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Pharrell_Williams" "Pharrell"]]}
+ {:album-link "http://en.wikipedia.org/wiki/R.O.O.T.S.",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Right%20Round" "Right Round"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Flo%20Rida" "Flo Rida"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Kesha" "Kesha"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Rage_Against_the_Machine_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Killing%20in%20the%20Name"
+    "Killing in the Name"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Rage%20Against%20the%20Machine"
+    "Rage Against the Machine"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Raising_Hell_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/It's%20Tricky" "It's Tricky"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Run%E2%80%93D.M.C." "Run-D.M.C."]]}
+ {:album-link "http://en.wikipedia.org/wiki/Ramones_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Blitzkrieg%20Bop" "Blitzkrieg Bop"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Ramones" "Ramones"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Ramones_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Blitzkrieg%20Bop" "Blitzkrieg Bop"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Ramones" "Ramones"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Rated_R_(Rihanna_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Hard%20%28song%29" "Hard"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Rihanna" "Rihanna"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Young%20Jeezy" "Young Jeezy"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Raven-Symon%C3%A9_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Double%20Dutch%20Bus"
+    "Double Dutch Bus"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Frankie%20Smith" "Frankie Smith"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Raymond_v._Raymond",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/OMG%20%28song%29" "OMG"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Usher%20%28entertainer%29" "Usher"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/will.i.am" "will.i.am"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Raymond_v._Raymond",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/Lil%20Freak" "Lil Freak"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Usher%20%28entertainer%29" "Usher"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Nicki%20Minaj" "Nicki Minaj"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Rebelution_(Pitbull_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Hotel%20Room%20Service"
+    "Hotel Room Service"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Pitbull%20%28rapper%29" "Pitbull"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Rebelution_(Pitbull_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Krazy%20%28song%29" "Krazy"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Pitbull%20%28rapper%29" "Pitbull"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Lil%20Jon" "Lil Jon"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Relapse_(Eminem_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Crack%20a%20Bottle" "Crack a Bottle"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Eminem" "Eminem"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Dr.%20Dre" "Dr. Dre"]
+   " and "
+   ["http://en.wikipedia.org/wiki/50%20Cent" "50 Cent"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Resident_Alien",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/In%20the%20Meantime%20%28Spacehog%20song%29"
+    "In the Meantime"]
+   "\" (portion sampled samples \""
+   ["http://en.wikipedia.org/wiki/Telephone%20and%20Rubber%20Band"
+    "Telephone and Rubber Band"]
+   "\" by "
+   ["http://en.wikipedia.org/wiki/Penguin%20Cafe%20Orchestra"
+    "Penguin Cafe Orchestra"]
+   ")"],
+  :artist [["http://en.wikipedia.org/wiki/Spacehog" "Spacehog"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Restless_(Starpoint_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Object_of_My_Desire"
+    "Object of My Desire"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Starpoint" "Starpoint"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Return_to_the_36_Chambers:_The_Dirty_Version",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Shimmy%20Shimmy%20Ya"
+    "Shimmy Shimmy Ya"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Ol'%20Dirty%20Bastard"
+    "Ol' Dirty Bastard"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Right_on_Time_(The_Brothers_Johnson_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Strawberry%20Letter%2023"
+    "Strawberry Letter 23"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Brothers%20Johnson"
+    "The Brothers Johnson"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Riptide_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Addicted%20to%20Love%20%28song%29"
+    "Addicted to Love"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Robert%20Palmer%20%28singer%29"
+    "Robert Palmer"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Roll_with_It_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Roll%20with%20It%20%28Steve%20Winwood%20song%29"
+    "Roll with It"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Steve%20Winwood" "Steve Winwood"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Rolling_Papers_(Wiz_Khalifa_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Black%20and%20Yellow"
+    "Black and Yellow"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Wiz%20Khalifa" "Wiz Khalifa"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Romeo_Must_Die_(soundtrack)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Try%20Again%20%28Aaliyah%20song%29"
+    "Try Again"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Aaliyah" "Aaliyah"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Rooty",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Where's%20Your%20Head%20At%3F"
+    "Where's Your Head At?"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Basement%20Jaxx" "Basement Jaxx"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Seeing_Sounds",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Everyone%20Nose%20%28All%20the%20Girls%20Standing%20in%20the%20Line%20for%20the%20Bathroom%29"
+    "Everyone Nose (All the Girls Standing in the Line for the Bathroom)"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/N.E.R.D" "N.E.R.D"]]}
+ {:album-link "http://en.wikipedia.org/wiki/She%27s_So_Unusual",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Time%20After%20Time%20%28Cyndi%20Lauper%20song%29"
+    "Time After Time"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Cyndi%20Lauper" "Cyndi Lauper"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Shout!_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Shout%20%28The%20Isley%20Brothers%20song%29"
+    "Shout"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Isley%20Brothers"
+    "The Isley Brothers"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Sir_Lucious_Left_Foot:_The_Son_of_Chico_Dusty",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Shutterbugg" "Shutterbugg"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Big%20Boi" "Big Boi"]
+   " featuring Cutty"]}
+ {:album-link "http://en.wikipedia.org/wiki/So_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/In%20Your%20Eyes%20%28Peter%20Gabriel%20song%29"
+    "In Your Eyes"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Peter%20Gabriel" "Peter Gabriel"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Speak_%26_Spell_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Just%20Can%27t%20Get%20Enough%20%28Depeche%20Mode%20song%29"
+    "Just Can't Get Enough"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Depeche%20Mode" "Depeche Mode"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Speakerboxxx/The_Love_Below",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/The%20Way%20You%20Move"
+    "The Way You Move"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Outkast" "Outkast"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Sleepy%20Brown" "Sleepy Brown"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Stankonia",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/B.O.B.%20%28song%29" "B.O.B."]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Outkast" "OutKast"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Stillmatic",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Got%20Ur%20Self%20A%E2%80%A6"
+    "Got Ur Self A…"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Nas" "Nas"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Stone_Cold_Rhymin%27",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Bust%20a%20Move%20%28song%29"
+    "Bust a Move"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Young%20MC" "Young MC"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Straight_Outta_Compton",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Express%20Yourself%20%28N.W.A%20song%29"
+    "Express Yourself"]
+   "\" (portion sampled samples \"Express Yourself\" by "
+   ["http://en.wikipedia.org/wiki/Charles%20Wright%20&%20the%20Watts%20103rd%20Street%20Rhythm%20Band"
+    "Charles Wright & the Watts 103rd Street Rhythm Band"]
+   ")"],
+  :artist [["http://en.wikipedia.org/wiki/N.W.A" "N.W.A"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Straight_Outta_Compton",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Straight%20Outta%20Compton%20%28song%29"
+    "Straight Outta Compton"]
+   "\" (portion sampled samples \"Get Me Back on Time, Engine #9\" by "
+   ["http://en.wikipedia.org/wiki/Wilson_Pickett" "Wilson Pickett"]
+   ")"],
+  :artist [["http://en.wikipedia.org/wiki/N.W.A" "N.W.A"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Straight_Outta_Hell%27s_Kitchen",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Let%20the%20Beat%20Hit%20'Em"
+    "Let the Beat Hit 'Em"]
+   "\" (portion sampled samples \"AJ Scratch\" by "
+   ["http://en.wikipedia.org/wiki/Kurtis%20Blow" "Kurtis Blow"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Lisa%20Lisa%20and%20Cult%20Jam"
+    "Lisa Lisa and Cult Jam"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Straight_Outta_Hell%27s_Kitchen",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Let%20the%20Beat%20Hit%20'Em"
+    "Let the Beat Hit 'Em"]
+   "\" (portion sampled samples \"AJ Scratch\" by "
+   ["http://en.wikipedia.org/wiki/Kurtis%20Blow" "Kurtis Blow"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Lisa%20Lisa%20and%20Cult%20Jam"
+    "Lisa Lisa and Cult Jam"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Surprise_(Crystal_Waters_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Gypsy%20Woman%20%28She's%20Homeless%29"
+    "Gypsy Woman (She's Homeless)"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Crystal%20Waters" "Crystal Waters"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Swass",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Posse%20on%20Broadway"
+    "Posse on Broadway"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Sir%20Mix-a-Lot" "Sir Mix-a-Lot"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Swass",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Posse%20on%20Broadway"
+    "Posse on Broadway"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Sir%20Mix-a-Lot" "Sir Mix-a-Lot"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Teenage_Dream_(Katy_Perry_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/California%20Gurls"
+    "California Gurls"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Katy%20Perry" "Katy Perry"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Snoop%20Dogg" "Snoop Dogg"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Teflon_Don_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/B.M.F.%20%28Blowin'%20Money%20Fast%29"
+    "B.M.F. (Blowin' Money Fast)"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Rick_Ross" "Rick Ross"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Styles%20P" "Styles P"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Tha_Carter_III",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/A%20Milli" "A Milli"] "\""],
+  :artist [["http://en.wikipedia.org/wiki/Lil%20Wayne" "Lil Wayne"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Thank_Me_Later",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Over%20%28Drake%20song%29" "Over"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Drake%20%28rapper%29" "Drake"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/The_Appeal:_Georgia%27s_Most_Wanted",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Gucci%20Time" "Gucci Time"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Gucci%20Mane" "Gucci Mane"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Swizz%20Beatz" "Swizz Beatz"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/The_Black_Album_(Jay-Z_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/99%20Problems" "99 Problems"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Jay-Z" "Jay-Z"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/The_Black_Album_(Jay-Z_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Dirt%20Off%20Your%20Shoulder"
+    "Dirt Off Your Shoulder"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Jay-Z" "Jay-Z"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Blueprint_3",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Empire%20State%20of%20Mind"
+    "Empire State of Mind"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Jay-Z" "Jay-Z"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Alicia%20Keys" "Alicia Keys"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Blueprint_3",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/D.O.A.%20%28Death%20of%20Auto-Tune%29"
+    "D.O.A. (Death of Auto-Tune)"]
+   "\" (portion sampled samples \"In the Space\" by "
+   ["http://en.wikipedia.org/wiki/Janko_Nilovi%C4%87"
+    "Janko Nilovi&#263;"]
+   " and Dave Sucky)"],
+  :artist [["http://en.wikipedia.org/wiki/Jay-Z" "Jay-Z"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Blueprint_3",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/On%20to%20the%20Next%20One"
+    "On to the Next One"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Jay-Z" "Jay-Z"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Swizz%20Beatz" "Swizz Beatz"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_DeAndre_Way",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Pretty%20Boy%20Swag"
+    "Pretty Boy Swag"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Soulja%20Boy" "Soulja Boy"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Downward_Spiral",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Closer%20%28Nine%20Inch%20Nails%20song%29"
+    "Closer"]
+   "\" (portion sampled samples \"Night Clubbing\" by "
+   ["http://en.wikipedia.org/wiki/Iggy%20Pop" "Iggy Pop"]
+   ")"],
+  :artist
+  [["http://en.wikipedia.org/wiki/Nine%20Inch%20Nails"
+    "Nine Inch Nails"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_E.N.D",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Boom%20Boom%20Pow" "Boom Boom Pow"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The_Black_Eyed_Peas"
+    "Black Eyed Peas"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Fame",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/LoveGame" "LoveGame"] "\""],
+  :artist [["http://en.wikipedia.org/wiki/Lady%20GaGa" "Lady GaGa"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Fame",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/LoveGame" "LoveGame"] "\""],
+  :artist [["http://en.wikipedia.org/wiki/Lady%20GaGa" "Lady GaGa"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Fame_Monster",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Bad%20Romance" "Bad Romance"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Lady%20Gaga" "Lady Gaga"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Fame_Monster",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Bad%20Romance" "Bad Romance"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Lady%20Gaga" "Lady Gaga"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Feel_of_Neil_Diamond",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Cherry,%20Cherry" "Cherry, Cherry"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Neil%20Diamond" "Neil Diamond"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Joshua_Tree",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/With%20or%20Without%20You"
+    "With or Without You"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/U2" "U2"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Kickback_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Teach%20Me%20How%20to%20Dougie"
+    "Teach Me How to Dougie"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Cali%20Swag%20District"
+    "Cali Swag District"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Kids_%26_Me",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Nothing%20from%20Nothing%20%28Billy%20Preston%20song%29"
+    "Nothing from Nothing"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Billy%20Preston" "Billy Preston"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Last_Kiss_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Who's%20Real" "Who's Real"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Jadakiss" "Jadakiss"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Swizz%20Beatz" "Swizz Beatz"]
+   " and "
+   ["http://en.wikipedia.org/wiki/OJ_da_Juiceman" "OJ Da Juiceman"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Massacre",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Disco%20Inferno%20%2850%20Cent%20song%29"
+    "Disco Inferno"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/50%20Cent" "50 Cent"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/The_One_(Chubb_Rock_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Treat_%27Em_Right" "Treat 'Em Right"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Chubb%20Rock" "Chubb Rock"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/The_Player%27s_Club_(soundtrack)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/We%20Be%20Clubbin'" "We Be Clubbin'"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Ice%20Cube" "Ice Cube"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Predator",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/It%20Was%20a%20Good%20Day"
+    "It Was a Good Day"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/Ice%20Cube" "Ice Cube"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/The_Raw_and_the_Cooked_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Good_Thing_%28Fine_Young_Cannibals_song%29"
+    "Good Thing"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Fine%20Young%20Cannibals"
+    "Fine Young Cannibals"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/The_Raw_and_the_Cooked_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Good_Thing_%28Fine_Young_Cannibals_song%29"
+    "Good Thing"]
+   " ("
+   ["http://en.wikipedia.org/wiki/Prince_Paul_%28producer%29"
+    "Prince Paul"]
+   " remix)\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Fine%20Young%20Cannibals"
+    "Fine Young Cannibals"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Rebirth",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Beep%20%28Bobby%20Valentino%20song%29"
+    "Beep"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Bobby_V" "Bobby Valentino"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Yung%20Joc" "Yung Joc"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Rise_%26_Fall_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Our%20House%20%28Madness%20song%29"
+    "Our House"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Madness%20%28band%29" "Madness"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/The_State_vs._Radric_Davis",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Spotlight%20%28Gucci%20Mane%20song%29"
+    "Spotlight"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Gucci%20Mane" "Gucci Mane"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Usher%20%28entertainer%29" "Usher"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/The_Time_of_Our_Lives_(EP)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Party%20in%20the%20U.S.A."
+    "Party in the U.S.A."]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Miley%20Cyrus" "Miley Cyrus"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/The_Time_of_Our_Lives_(EP)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Party%20in%20the%20U.S.A."
+    "Party in the U.S.A."]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Miley%20Cyrus" "Miley Cyrus"]]}
+ {:album-link "http://en.wikipedia.org/wiki/The_Young_Rascals_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Good%20Lovin'" "Good Lovin'"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Young%20Rascals"
+    "The Young Rascals"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/They_Only_Come_Out_at_Night",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Frankenstein%20%28instrumental%29"
+    "Frankenstein"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Edgar%20Winter%20Group"
+    "The Edgar Winter Group"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Third_Eye_Blind_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Semi-Charmed%20Life"
+    "Semi-Charmed Life"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Third%20Eye%20Blind"
+    "Third Eye Blind"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Thugs_Are_Us",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Take_It_to_da_House"
+    "Take It to Da House"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Trick%20Daddy" "Trick Daddy"]
+   " featuring The Slip-N-Slide Express"]}
+ {:album-link "http://en.wikipedia.org/wiki/Til_the_Casket_Drops",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/I'm%20Good%20%28Clipse%20song%29"
+    "I'm Good"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Clipse" "Clipse"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Pharrell_Williams" "Pharrell"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Todd_Smith_(album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Control%20Myself" "Control Myself"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/LL%20Cool%20J" "LL Cool J"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Jennifer%20Lopez" "Jennifer Lopez"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Trap_Muzik",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Rubberband%20Man" "Rubberband Man"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/T.I." "T.I."]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/True_Story_(Terror_Squad_album)",
+  :song
+  ["\"" ["http://en.wikipedia.org/wiki/Lean%20Back" "Lean Back"] "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Terror%20Squad%20%28group%29"
+    "Terror Squad"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Under_Construction_(Missy_Elliott_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Gossip%20Folks" "Gossip Folks"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Missy%20Elliott" "Missy Elliott"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Ludacris" "Ludacris"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Voices_(Hall_%26_Oates_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/You%20Make%20My%20Dreams"
+    "You Make My Dreams"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Hall%20&%20Oates" "Hall & Oates"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Walking_with_a_Panther",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Jingling_Baby"
+    "Jingling Baby (Remixed But Still Jingling)"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/LL%20Cool%20J" "LL Cool J"]]}
+ {:album-link "http://en.wikipedia.org/wiki/War_(U2_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Sunday%20Bloody%20Sunday"
+    "Sunday Bloody Sunday"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/U2" "U2"]]}
+ {:album-link "http://en.wikipedia.org/wiki/We%27re_an_American_Band",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/We're%20An%20American%20Band%20%28song%29"
+    "We're an American Band"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Grand%20Funk%20Railroad"
+    "Grand Funk Railroad"]]}
+ {:album-link "http://en.wikipedia.org/wiki/We_(Don%27t)_Care",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Kids%20%28MGMT%20song%29" "Kids"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/MGMT" "MGMT"]]}
+ {:album-link "http://en.wikipedia.org/wiki/We_Started_Nothing",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/That's%20Not%20My%20Name"
+    "That's Not My Name"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/The%20Ting%20Tings"
+    "The Ting Tings"]]}
+ {:album-link "http://en.wikipedia.org/wiki/When_Disaster_Strikes",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Dangerous%20%28Busta%20Rhymes%20song%29"
+    "Dangerous"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Busta%20Rhymes" "Busta Rhymes"]]}
+ {:album-link
+  "http://en.wikipedia.org/wiki/Where_Have_All_the_Merrymakers_Gone%3F",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Flagpole%20Sitta" "Flagpole Sitta"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Harvey%20Danger" "Harvey Danger"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Who%27s_Next",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Won't%20Get%20Fooled%20Again"
+    "Won't Get Fooled Again"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/The%20Who" "The Who"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Wolfgang_Amadeus_Phoenix",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/1901%20%28song%29" "1901"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Phoenix%20%28band%29" "Phoenix"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Wolfgang_Amadeus_Phoenix",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/1901%20%28song%29" "1901"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Phoenix%20%28band%29" "Phoenix"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Women_in_Technology",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Your%20Woman" "Your Woman"]
+   "\""],
+  :artist [["http://en.wikipedia.org/wiki/White%20Town" "White Town"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Word_of_Mouf",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/Move%20Bitch" "Move Bitch"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/Ludacris" "Ludacris"]
+   " featuring "
+   ["http://en.wikipedia.org/wiki/Mystikal" "Mystikal"]
+   " and "
+   ["http://en.wikipedia.org/wiki/I-20%20%28rapper%29" "I-20"]]}
+ {:album-link "http://en.wikipedia.org/wiki/Yeah!_(Def_Leppard_album)",
+  :song
+  ["\""
+   ["http://en.wikipedia.org/wiki/20th%20Century%20Boy"
+    "20th Century Boy"]
+   "\""],
+  :artist
+  [["http://en.wikipedia.org/wiki/T.%20Rex%20%28band%29" "T. Rex"]]}
+
+ {:year 1992
+  :album-link "http://en.wikipedia.org/wiki/La_Sexorcisto:_Devil_Music,_Vol._1",
+  :song ["\"" ["http://en.wikipedia.org/wiki/Thunder Kiss%20'65" "Thunder Kiss '65"] "\""]
+  :artist [["http://en.wikipedia.org/wiki/White%20Zombie%20%28band%29" "White Zombie"]]
+  }
+ 
+ 
+)
