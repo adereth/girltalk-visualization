@@ -74,7 +74,7 @@ album links for the tracks that couldn't be done automatically.  If the album
 can't be found, I add a :year key.  The manually completed file has .generated
 removed from the name."
   [album]
-  (spit (str album "AlbumLinks.generated.edn")
+  (spit (str "data/" album "AlbumLinks.generated.edn")
         (with-out-str
           (->> "AllDay"
                tl/album
@@ -85,7 +85,7 @@ removed from the name."
 
 (defn get-album-link-year-lookup-map
   [album]
-  (let [link-cache (edn/read-string (slurp (str album "AlbumLinks.edn")))]
+  (let [link-cache (edn/read-string (slurp (str "data/" album "AlbumLinks.edn")))]
     (zipmap (map #(select-keys % [:artist :song]) link-cache)
             (map #(select-keys % [:album-link :year]) link-cache))))
 
