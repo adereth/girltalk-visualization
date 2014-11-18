@@ -14,9 +14,9 @@
   (insta/parser "
 wiki-line = title-track-line | sample-track-line | <''>
 
-title-track-line = <'!! '> track-number <'. '> track-name <'- '> track-time
+title-track-line = <'!! '> track-number <'. '> track-name <' - '> track-time
 track-number = #'\\d+'
-track-name = #'[^-]*'
+track-name = #'[^-]+(?= - )'
 track-time = time
 
 sample-track-line = <'* '> start-time <' - '> end-time <' '> artist-name <' - '> sample-name
