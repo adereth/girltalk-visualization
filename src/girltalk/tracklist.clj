@@ -1,9 +1,7 @@
 (ns girltalk.tracklist
   (:require [net.cgrand.enlive-html :as html]
             [clojure.java.io :as io]
-            [clojure.string :as string]
-            [instaparse.core :as insta]
-            [clojure.pprint :refer :all]))
+            [instaparse.core :as insta]))
 
 (defn mm:ss->ms [mm:ss]
   (let [[mm ss] (map #(Integer/parseInt %)
@@ -115,6 +113,3 @@ end-time = time
        samples-with-absolute-times
        collapse-intertrack-samples
        extend-short-samples))
-
-
-;; "* 2:37 - 4:02 [[http://en.wikipedia.org/wiki/White%20Zombie%20%28band%29 | White Zombie]] - \"[[http://en.wikipedia.org/wiki/Thunder Kiss%20'65 | Thunder Kiss '65]]\""
