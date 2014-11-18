@@ -2,8 +2,6 @@
 This is the code that I used to generate [All Day by Girl Talk, Annotated](http://adereth.github.io/oneoff/girltalk-v2/).
 
 ## License
-All code is released under hte
-
 Copyright © 2014 Matthew Adereth
 
 All code is distributed under the Eclipse Public License either version 1.0 or (at
